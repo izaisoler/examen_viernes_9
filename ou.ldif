@@ -1,0 +1,5 @@
+# organisational unit for directores department
+dn: ou=directores,dc=example,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: directores

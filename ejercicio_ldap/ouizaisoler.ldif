@@ -1,0 +1,101 @@
+# organizational unit for alumnos department
+dn: ou=alumnos,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: alumnos
+
+# organizational unit for 3esoA department
+dn: ou=3esoA,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoA
+
+# organizational unit for 3esoB department
+dn: ou=3esoB,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoB
+
+# organizational unit for 3esoC department
+dn: ou=3esoC,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoC
+
+# organizational unit for 3esoD department
+dn: ou=3esoD,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoD
+
+# organizational unit for 3esoE department
+dn: ou=3esoE,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoE
+
+# organizational unit for 3esoF department
+dn: ou=3esoF,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoF
+
+# organizational unit for 3esoG department
+dn: ou=3esoG,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 3esoG
+
+# organizational unit for 1bachA department
+dn: ou=1bachA,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1bachA
+
+# organizational unit for 1bachB department
+dn: ou=1bachB,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1bachB
+
+# organizational unit for 1bachC department
+dn: ou=1bachC,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1bachC
+
+# organizational unit for 1bachD department
+dn: ou=1bachD,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1bachD
+
+# organizational unit for 1bachE department
+dn: ou=1bachE,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: 1bachE
+
+# organizational unit for GSasir1 department
+dn: ou=GSasir1,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSasir1
+
+# organizational unit for GSasir2 department
+dn: ou=GSasir2,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSasir2
+
+# organizational unit for GSdaw1 department
+dn: ou=GSdaw1,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSdaw1
+
+# organizational unit for GSdaw2 department
+dn: ou=GSdaw2,dc=examensoler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: GSdaw2
